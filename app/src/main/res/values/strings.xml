@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">lab1</string>
+    <string name="selected_item">Selected item:</string>
+    <string-array name="fieldSizes">
+        <item>3x3</item>
+        <item>4x4</item>
+        <item>5x5</item>
+    </string-array>
+    <string-array name="timers">
+        <item>15s</item>
+        <item>30s</item>
+        <item>45s</item>
+    </string-array>
+    <string-array name="frameChanges">
+        <item>1-1.5s</item>
+        <item>0.7-1s</item>
+        <item>0.5-0.7s</item>
+        <item>0.3-0.6s</item>
+    </string-array>
+</resources>
